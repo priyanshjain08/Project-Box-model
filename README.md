@@ -12,4 +12,4 @@ A simple HTML & CSS project demonstrating the **CSS Box Model** with margin, bor
 - HTML5
 - CSS3
 
-Site is live at https://priyanshjain08.github.io/Project-Box-model/
+
